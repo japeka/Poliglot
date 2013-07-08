@@ -1,0 +1,18 @@
+Azureen luotu
+
+poliglotmobileservice -niminen mobiilipalvelu, joka
+(https://poliglotmobileservice.azure-mobile.net/)
+
+k‰ytt‰‰
+
+languagesample nimist‰ tietokantaa. 
+
+Tietokannan rakenne on seuraavanlainen
+id		language	level		sample
+bigint(MSSQL)	nchar(MSSQL)	int(MSSQL)	string
+
+read-tapahtumissa k‰ytet‰‰n vain oletusta
+
+function read(query, user, request) {
+    request.execute();
+}
