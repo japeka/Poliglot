@@ -1,0 +1,58 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Poliglot.GamePlayPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="POLIGLOT" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Name="tbTitle" Text="Playing Page" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="13,0,11,0">
+            <TextBlock x:Name="tbLevelLabel" HorizontalAlignment="Left" Margin="14,17,0,0" TextWrapping="Wrap" Text="Difficulty Level: " VerticalAlignment="Top" Width="175" FontSize="24"/>
+            <TextBlock x:Name="tbLevel" HorizontalAlignment="Left" Margin="200,19,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" Width="31" FontSize="24"/>
+            <TextBlock HorizontalAlignment="Left" Margin="16,61,0,0" TextWrapping="Wrap" Text="Score:" VerticalAlignment="Top" Width="97" FontSize="24"/>
+            <TextBlock Name="tbScore" HorizontalAlignment="Left" Margin="199,60,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" RenderTransformOrigin="0.488,-0.037" Width="57" FontSize="24"/>
+            <TextBlock Name="tbLanguageSampleLabel" HorizontalAlignment="Left" Margin="123,156,0,0" TextWrapping="Wrap" Text="Language Sample" VerticalAlignment="Top" Width="229" FontSize="28"/>
+            
+            <Rectangle Visibility="Collapsed" Name="recTimeRunningBack" Fill="#FF029510" HorizontalAlignment="Left" Height="45" Margin="269,55,0,0" Stroke="Black" VerticalAlignment="Top" Width="57"/>
+            <TextBlock Visibility="Collapsed" Name="tbTimeRunningLabel" HorizontalAlignment="Left" Margin="267,14,0,0" TextWrapping="Wrap" Text="Time to answer" VerticalAlignment="Top" Width="168" Foreground="#FFFDFCFC" FontSize="24"/>
+            <TextBlock Visibility="Collapsed" Name="tbTimeToAnswer" HorizontalAlignment="Left" Margin="273,55,0,0" TextWrapping="Wrap" Text="7" VerticalAlignment="Top" Width="49" FontSize="32" Height="44" TextAlignment="Center" OpacityMask="Black" Foreground="#FFFDFCFC"/>
+            
+            <TextBlock Name="tbLanguageSample" HorizontalAlignment="Left" Margin="12,218,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="434" FontSize="28" Height="154" Foreground="#FF0639EA"/>
+            <TextBlock Visibility="Collapsed" Name="tbAnswerWrong" HorizontalAlignment="Left" Margin="356,156,-1,0" TextWrapping="Wrap" Text="Wrong" VerticalAlignment="Top" Width="101" Foreground="#FFF51414" FontSize="28"/>
+            <TextBlock Visibility="Collapsed" Name="tbAnswerCorrect" HorizontalAlignment="Left" Margin="356,156,-1,0" TextWrapping="Wrap" Text="Correct" VerticalAlignment="Top" Width="101" Foreground="#FF029510" FontSize="28"/>
+            <TextBlock Name="tbSelectLanguage" HorizontalAlignment="Left" Margin="5,356,0,0" TextWrapping="Wrap" Text="Select Language" VerticalAlignment="Top" Width="265" FontSize="28"/>
+            <TextBlock Name="tb1Language" HorizontalAlignment="Left" Margin="6,410,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" FontSize="36" Foreground="#FF029510" Tap="tbTapItemEvent"/>
+            <TextBlock x:Name="tb2Language" HorizontalAlignment="Left" Margin="241,410,-26,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" FontSize="36" Foreground="#FF029510" Tap="tbTapItemEvent"/>
+            <TextBlock x:Name="tb3Language" HorizontalAlignment="Left" Margin="6,506,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" FontSize="36" Foreground="#FF029510" Tap="tbTapItemEvent"/>
+            <TextBlock x:Name="tb4Language" HorizontalAlignment="Left" Margin="241,506,-26,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="241" FontSize="36" Foreground="#FF029510" Tap="tbTapItemEvent"/>
+            <TextBlock Name="tbThreeLabel" HorizontalAlignment="Left" Margin="94,158,0,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" RenderTransformOrigin="0.488,-0.037" Width="21" FontSize="24"/>
+            <TextBlock Name="tbForwardFlash2" HorizontalAlignment="Left" Margin="74,157,0,0" TextWrapping="Wrap" Text="/" VerticalAlignment="Top" RenderTransformOrigin="0.488,-0.037" Width="21" FontSize="24"/>
+            <TextBlock Name="tbRound" HorizontalAlignment="Left" Margin="53,158,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" RenderTransformOrigin="0.488,-0.037" Width="21" FontSize="24"/>
+            <TextBlock Name="tbQuestionNumber" HorizontalAlignment="Left" Margin="14,158,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" RenderTransformOrigin="0.488,-0.037" Width="21" FontSize="24"/>
+            <TextBlock Name="tbForwardFlash1" HorizontalAlignment="Left" Margin="35,157,0,0" TextWrapping="Wrap" Text="/" VerticalAlignment="Top" RenderTransformOrigin="0.488,-0.037" Width="21" FontSize="24"/>
+        </Grid>
+        <Image  Visibility="Collapsed" Name="imFacePoliglot" HorizontalAlignment="Left" Height="248" Margin="78,148,0,0" Grid.Row="1" VerticalAlignment="Top" Width="252" Source="Assets/poliglot.jpg"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

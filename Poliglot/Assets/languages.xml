@@ -1,0 +1,758 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+
+<language>
+<id>1</id>
+<name>finnish</name>
+<level>1</level>
+<sample>Jokaisella henkilöllä on nimi</sample>
+</language>
+
+<language>
+<id>2</id>
+<name>swedish</name>
+<level>1</level>
+<sample>Hur mår du?</sample>
+</language>
+<language>
+<id>3</id>
+<name>icelandic</name>
+<level>1</level>
+<sample>Í Biblíunni er að finna bestu svörin við erfðustu</sample>
+</language>
+
+<language>
+<id>4</id>
+<name>danish</name>
+<level>1</level>
+<sample>I begyndelsen skabte Gud himmelen og jorden</sample>
+</language>
+
+<language>
+<id>5</id>
+<name>norwegian</name>
+<level>1</level>
+<sample>I begynnelsen skapte Gud himlene og jorden</sample>
+</language>
+
+<language>
+<id>6</id>
+<name>faroese</name>
+<level>1</level>
+<sample>Vit koma úr nógvum ymiskum londum</sample>
+</language>
+
+<language>
+<id>7</id>
+<name>russian</name>
+<level>1</level>
+<sample>В начале Бог сотворил небеса и землю</sample>
+</language>
+
+<language>
+<id>8</id>
+<name>bulgarian</name>
+<level>2</level>
+<sample>В началото Бог създаде небесата и земята</sample>
+</language>
+
+<language>
+<id>9</id>
+<name>german</name>
+<level>1</level>
+<sample>Im Anfang erschuf Gott die Himmel und die Erde</sample>
+</language>
+
+<language>
+<id>10</id>
+<name>estonian</name>
+<level>1</level>
+<sample>Piibel pakub meile parimat nõu isegi elu kõige raskemates olukordades</sample>
+</language>
+
+<language>
+<id>11</id>
+<name>latvian</name>
+<level>2</level>
+<sample>Bibele ir atrodamas labakas atbildes uz dzives sarežgitakajiem jautajumiem</sample>
+</language>
+
+<language>
+<id>12</id>
+<name>lithuanian</name>
+<level>2</level>
+<sample>Šventajame Rašte pateikiami atsakymai i pacius sunkiausius gyvenimo klausimus</sample>
+</language>
+
+<language>
+<id>13</id>
+<name>belorussian</name>
+<level>2</level>
+<sample>Беларуская эканоміка не рэфармуецца ў бок рынкавай</sample>
+</language>
+
+<language>
+<id>13</id>
+<name>ukrainian</name>
+<level>2</level>
+<sample>Біблія, тобто Святе Письмо, містить багато мудрих думок</sample>
+</language>
+
+<language>
+<id>14</id>
+<name>romanian</name>
+<level>2</level>
+<sample>La început Dumnezeu a creat cerurile si pamântul</sample>
+</language>
+
+<language>
+<id>15</id>
+<name>polish</name>
+<level>2</level>
+<sample>Na poczatku Bóg stworzyl niebiosa i ziemie</sample>
+</language>
+
+
+<language>
+<id>16</id>
+<name>dutch</name>
+<level>2</level>
+<sample>In [het] begin schiep God de hemel en de aarde</sample>
+</language>
+
+<language>
+<id>17</id>
+<name>flemish</name>
+<level>3</level>
+<sample>Het Belgische EU-Voorzitterschap heeft vele gezichten</sample>
+</language>
+
+<language>
+<id>18</id>
+<name>french</name>
+<level>1</level>
+<sample>Au commencement Dieu créa les cieux et la terre</sample>
+</language>
+
+<language>
+<id>19</id>
+<name>spanish</name>
+<level>1</level>
+<sample>En [el] principio Dios creó los cielos y la tierra</sample>
+</language>
+
+<language>
+<id>20</id>
+<name>portuguese</name>
+<level>1</level>
+<sample>No princípio Deus criou os céus e a terra</sample>
+</language>
+
+<language>
+<id>21</id>
+<name>italian</name>
+<level>1</level>
+<sample>In principio Dio creò i cieli e la terra</sample>
+</language>
+
+<language>
+<id>22</id>
+<name>rheto-romance</name>
+<level>3</level>
+<sample>Mincha uman no far valair ils drets e las libertats proclamats in quista Decleranza</sample>
+</language>
+
+<language>
+<id>23</id>
+<name>czech</name>
+<level>2</level>
+<sample>Na pocátku Buh stvoril nebesa a zemi</sample>
+</language>
+
+<language>
+<id>24</id>
+<name>slovak</name>
+<level>3</level>
+<sample>Na zaciatku Boh stvoril nebesia a zem</sample>
+</language>
+
+<language>
+<id>25</id>
+<name>slovenian</name>
+<level>3</level>
+<sample>V zacetku je Bog ustvaril nebo in zemljo</sample>
+</language>
+
+<language>
+<id>26</id>
+<name>croatian</name>
+<level>3</level>
+<sample>Svakome su dostupna sva prava i slobude navedene u ovoj Deklaraciji</sample>
+</language>
+
+<language>
+<id>27</id>
+<name>bosnian</name>
+<level>3</level>
+<sample>Bosanski jezik je standardni južnoslavenski jezik kojim govore uglavnom</sample>
+</language>
+
+<language>
+<id>28</id>
+<name>serbian</name>
+<level>3</level>
+<sample>Читајте Свето писмо онлајн</sample>
+</language>
+
+<language>
+<id>29</id>
+<name>hungarian</name>
+<level>2</level>
+<sample>Kezdetben teremtette Isten az eget és a földet</sample>
+</language>
+
+<language>
+<id>30</id>
+<name>albanian</name>
+<level>3</level>
+<sample>Në fillim Perëndia krijoi qiejt dhe tokën</sample>
+</language>
+
+<language>
+<id>31</id>
+<name>greece</name>
+<level>2</level>
+<sample>Διαβάστε την Αγία Γραφή στο Διαδίκτυο</sample>
+</language>
+
+<language>
+<id>32</id>
+<name>turkish</name>
+<level>2</level>
+<sample>Kralligin bu iyi haberi, dünyanin her yerinde bütün milletlere sahitlik amaciyla duyurulacak</sample>
+</language>
+
+<language>
+<id>33</id>
+<name>esperanto</name>
+<level>3</level>
+<sample>mi legas</sample>
+</language>
+
+<language>
+<id>34</id>
+<name>georgian</name>
+<level>4</level>
+<sample>წაიკითხეთ ბიბლია ონლაინში</sample>
+</language>
+
+<language>
+<id>35</id>
+<name>armenian</name>
+<level>4</level>
+<sample>Արքայութեան այս աւետարանը բովանդակ աշխարհի մէջ պիտի քարոզուի</sample>
+</language>
+
+<language>
+<id>35</id>
+<name>azerbaijani</name>
+<level>4</level>
+<sample>Padsahliq haqqindaki bu xos x?b?r bütün yer üzünd? t?blig edil?c?k</sample>
+</language>
+
+<language>
+<id>36</id>
+<name>kazakh</name>
+<level>4</level>
+<sample>Патшалық жайлы осы ізгі хабар барлық ұлттарға куәлік етілу үшін, бүкіл жер бетінде уағыздалады</sample>
+</language>
+
+<language>
+<id>37</id>
+<name>armenian</name>
+<level>4</level>
+<sample>Արքայութեան այս աւետարանը բովանդակ աշխարհի մէջ պիտի քարոզուի</sample>
+</language>
+
+<language>
+<id>38</id>
+<name>uzbekistan</name>
+<level>4</level>
+<sample>Шоҳлик ҳақидаги хушхабар ҳамма халқларга шаҳодат берилиши учун бутун дунё бўйлаб ваъз қилинад</sample>
+</language>
+
+<language>
+<id>39</id>
+<name>afrikaans</name>
+<level>4</level>
+<sample>In die begin het God die hemel en die aarde geskep</sample>
+</language>
+
+<language>
+<id>40</id>
+<name>acholi</name>
+<level>4</level>
+<sample>Lok man me kwena maber me ker pa Lubanga gibitito i wi lobo ducu</sample>
+</language>
+
+<language>
+<id>41</id>
+<name>catalan</name>
+<level>3</level>
+<sample>Aquest missatge joiós del Regne serà proclamat per tota la terra</sample>
+</language>
+
+<language>
+<id>42</id>
+<name>basque</name>
+<level>4</level>
+<sample>Erreinuaren berri ona honek bizi lurra guztiak egingo predikatu</sample>
+</language>
+
+<language>
+<id>43</id>
+<name>cebuano</name>
+<level>5</level>
+<sample>Kining maayong balita sa gingharian igawali sa tibuokn gipuy-ang yuta</sample>
+</language>
+
+<language>l
+<id>44</id>
+<name>chinese</name>
+<level>3</level>
+<sample>这个王国的好消息会传遍在所有有人居住的地球</sample>
+</language>
+
+<language>
+<id>45</id>
+<name>bengali</name>
+<level>5</level>
+<sample>কেমন আছেন</sample>
+</language>
+
+<language>
+<id>46</id>
+<name>filipino</name>
+<level>3</level>
+<sample>saan ka nakatira?</sample>
+</language>
+
+<language>
+<id>47</id>
+<name>galician</name>
+<level>4</level>
+<sample>onde vostede vive?</sample>
+</language>
+
+<language>
+<id>48</id>
+<name>gujarati</name>
+<level>5</level>
+<sample>તમે ક્યાં રહો છો?</sample>
+</language>
+
+<language>
+<id>49</id>
+<name>haiti creoli</name>
+<level>5</level>
+<sample>kote w ap viv?</sample>
+</language>
+
+<language>
+<id>50</id>
+<name>hebrew</name>
+<level>4</level>
+<sample>איפה אתה גר</sample>
+</language>
+
+<language>
+<id>51</id>
+<name>hindi</name>
+<level>4</level>
+<sample>आप जहां रहते हैं?</sample>
+</language>
+
+<language>
+<id>52</id>
+<name>hmong</name>
+<level>5</level>
+<sample>koj nyob qhov twg?</sample>
+</language>
+
+<language>
+<id>53</id>
+<name>indonesian</name>
+<level>3</level>
+<sample>di mana kau tinggal?</sample>
+</language>
+
+<language>
+<id>54</id>
+<name>javanese</name>
+<level>4</level>
+<sample>ngendi kowe manggon?</sample>
+</language>
+
+<language>
+<id>55</id>
+<name>kannada</name>
+<level>5</level>
+<sample>ನೀವು ಅಲ್ಲಿ ವಾಸಿವಾಗಿದ್ದೀರಿ?</sample>
+</language>
+
+<language>
+<id>56</id>
+<name>khmer</name>
+<level>5</level>
+<sample>តើអ្នកដែលជាកន្លែងរស់នៅ?</sample>
+</language>
+
+<language>
+<id>57</id>
+<name>korean</name>
+<level>3</level>
+<sample>당신은 어디에 살고 있습니까?</sample>
+</language>
+
+<language>
+<id>58</id>
+<name>lao</name>
+<level>5</level>
+<sample>ທ່ານທີ່ດໍາລົງຊີວິດ?</sample>
+</language>
+
+<language>
+<id>59</id>
+<name>latin</name>
+<level>2</level>
+<sample>ubi habitas?</sample>
+</language>
+
+<language>
+<id>60</id>
+<name>malay</name>
+<level>5</level>
+<sample>di mana anda tinggal?</sample>
+</language>
+
+<language>
+<id>61</id>
+<name>maltese</name>
+<level>5</level>
+<sample>fejn tgħix?</sample>
+</language>
+
+<language>
+<id>62</id>
+<name>marathi</name>
+<level>5</level>
+<sample>आपण कोठे राहता?</sample>
+</language>
+
+<language>
+<id>63</id>
+<name>persian</name>
+<level>2</level>
+<sample>کجا زندگی می کنید؟</sample>
+</language>
+
+<language>
+<id>64</id>
+<name>swahili</name>
+<level>2</level>
+<sample>unakaa wapi?</sample>
+</language>
+
+<language>
+<id>65</id>
+<name>tamil</name>
+<level>4</level>
+<sample>நீங்கள் எங்கு வசிக்கிறீர்கள்?</sample>
+</language>
+
+<language>
+<id>66</id>
+<name>telugu</name>
+<level>5</level>
+<sample>మీరు ఎక్కడ నివసిస్తున్నారు?</sample>
+</language>
+
+<language>
+<id>67</id>
+<name>thai</name>
+<level>4</level>
+<sample>คุณอยู่ที่ไหน?</sample>
+</language>
+
+<language>
+<id>68</id>
+<name>urdu</name>
+<level>5</level>
+<sample>تم کہاں رہتے ہو؟</sample>
+</language>
+
+<language>
+<id>69</id>
+<name>vietnamese</name>
+<level>4</level>
+<sample>nơi nào bạn sống?</sample>
+</language>
+
+<language>
+<id>70</id>
+<name>welsh</name>
+<level>3</level>
+<sample>lle rydych chi'n byw?</sample>
+</language>
+
+<language>
+<id>71</id>
+<name>yiddish</name>
+<level>5</level>
+<sample>ווו טאָן איר לעבן?</sample>
+</language>
+
+<language>
+<id>72</id>
+<name>amharic</name>
+<level>2</level>
+<sample>አንቀጽ፡፩፤ የሰው፡ልጅ፡ሁሉ፡ሲወለድ፡ነጻና፡በክብርና፡በመብትም፡እኩልነት፡</sample>
+</language>
+
+<language>
+<id>73</id>
+<name>arabic</name>
+<level>2</level>
+<sample> الأعمال بالقنابل عدم كل, بفرض والنفيس إذ دحر. نفس هو</sample>
+</language>
+
+<language>
+<id>74</id>
+<name>assamese</name>
+<level>4</level>
+<sample>অসমীয়া প্ৰতিদিন</sample>
+</language>
+
+<language>
+<id>75</id>
+<name>aymara</name>
+<level>3</level>
+<sample>Taqpach jaqejh khuskat uñjatatäpjhewa munañapansa, lurañapansa, amuyasiñapansa</sample>
+</language>
+
+
+<language>
+<id>76</id>
+<name>balochi</name>
+<level>3</level>
+<sample>بلوچی ادب » بلوچی زبان و ثقافت</sample>
+</language>
+
+
+<language>
+<id>77</id>
+<name>bamanankan</name>
+<level>4</level>
+<sample>Hadamaden bɛɛ danmakɛɲɛnen bɛ bange, danbe ni josira la</sample>
+</language>
+
+<language>
+<id>78</id>
+<name>bashkort</name>
+<level>3</level>
+<sample>ғәфү ит, ғәфү итегеҙ</sample>
+</language>
+
+<language>
+<id>79</id>
+<name>bhojpuri</name>
+<level>3</level>
+<sample>सभे इंसान आजादे पैदा भयिल बाडें</sample>
+</language>
+
+<language>
+<id>80</id>
+<name>bislama</name>
+<level>3</level>
+<sample>Evri man mo woman i bon fri mo ikwol long respek mo ol raet</sample>
+</language>
+
+<language>
+<id>81</id>
+<name>brahui</name>
+<level>5</level>
+<sample>dāfilānaghāsk ki numā rahāi tūsura, arāng hināno?</sample>
+</language>
+
+
+<language>
+<id>83</id>
+<name>chechen</name>
+<level>2</level>
+<sample>Ламанах духдуьйлу шал шийла шовданш</sample>
+</language>
+
+<language>
+<id>83</id>
+<name>cherokee</name>
+<level>2</level>
+<sample>ᏂᎦᏓ ᎠᏂᏴᏫ ᏂᎨᎫᏓᎸᎾ ᎠᎴ ᎤᏂᏠᏱ ᎤᎾᏕᎿ ᏚᏳᎦᏛ</sample>
+</language>
+
+<language>
+<id>84</id>
+<name>dakota</name>
+<level>3</level>
+<sample>Pidamayaye ye/do</sample>
+</language>
+
+<language>
+<id>85</id>
+<name>dari</name>
+<level>2</level>
+<sample>صدای امریکا: صفحه اصلی</sample>
+</language>
+
+<language>
+<id>86</id>
+<name>ewe</name>
+<level>1</level>
+<sample>Wodzi amegbetɔwo katã ablɔɖeviwoe eye wodzena bubu kple gomekpɔkpɔ sɔsɔe</sample>
+</language>
+
+<language>
+<id>87</id>
+<name>guarani</name>
+<level>4</level>
+<sample>Mayma yvypóra ou ko yvy ári iñapytl’yre ha eteîcha dignidad ha derecho jeguerekópe</sample>
+</language>
+
+<language>
+<id>88</id>
+<name>hausa</name>
+<level>2</level>
+<sample>Su dai yan-adam, ana haifuwarsu ne duka yantattu</sample>
+</language>
+
+<language>
+<id>89</id>
+<name>hawaiian</name>
+<level>2</level>
+<sample>Hānau kū’oko’a ‘ia nā kānaka apau loa</sample>
+</language>
+
+<language>
+<id>90</id>
+<name>hawaiian Creole</name>
+<level>3</level>
+<sample>E komo mai</sample>
+</language>
+
+<language>
+<id>91</id>
+<name>hiligaynon</name>
+<level>5</level>
+<sample>Ang tanan nga tao ginbun-ag nga hilway kag may pag-alalangay sa dungog kag katarungan</sample>
+</language>
+
+<language>
+<id>92</id>
+<name>igbo</name>
+<level>3</level>
+<sample>A mụrụ mmadụ nile n’ohere nakwa nha anya ugwu na ikike</sample>
+</language>
+
+<language>
+<id>93</id>
+<name>ilokano</name>
+<level>2</level>
+<sample>Amin nga tao nga sibibiag ket naiyanak a siwawayawaya </sample>
+</language>
+
+<language>
+<id>94</id>
+<name>inuit</name>
+<level>3</level>
+<sample>Tunngasugitsi</sample>
+</language>
+
+<language>
+<id>95</id>
+<name>somali</name>
+<level>4</level>
+<sample>Aadanaha dhammaantiis wuxuu dhashaa isagoo xor ah kana siman</sample>
+</language>
+
+<language>
+<id>96</id>
+<name>sinhalese</name>
+<level>3</level>
+<sample>තමිල්නාඩුවේ වෙලින්ටන් හමුදා පීඨය අවට දැඩි රැකවල්</sample>
+</language>
+
+<language>
+<id>97</id>
+<name>xhosa</name>
+<level>4</level>
+<sample>Bonke abantu bazalwa bekhululekile belingana ngesidima nangokweemfanelo</sample>
+</language>
+
+<language>
+<id>98</id>
+<name>yoruba</name>
+<level>5</level>
+<sample>Gbogbo ènìyán ni a bì ní òmìnira; iyì àti t kkan sí dgba</sample>
+</language>
+
+<language>
+<id>99</id>
+<name>lingala</name>
+<level>1</level>
+<sample>Bato nyonso na mbotama bazali nzomi pe bakokani na limemya pe makoki</sample>
+</language>
+
+
+<language>
+<id>100</id>
+<name>oromo</name>
+<level>5</level>
+<sample>Namooti hundinuu birmaduu ta’anii mirgaa fi ulfinaanis wal-qixxee ta’anii dhalatan</sample>
+</language>
+
+<language>
+<id>101</id>
+<name>jarai</name>
+<level>3</level>
+<sample>Ih hiam drơi jan mơ̆?</sample>
+</language>
+
+<language>
+<id>102</id>
+<name>kiche</name>
+<level>2</level>
+<sample>Konojel ri winaq are taq ke’alaxik pa junaman ya’tal chkech kakechab’ej ronojel ri utzil</sample>
+</language>
+
+
+<language>
+<id>103</id>
+<name>tok pisin</name>
+<level>4</level>
+<sample>Yumi olgeta mama karim umi long stap fri na wankain long wei yumi lukim i gutpela na strepela tru</sample>
+</language>
+
+<language>
+<id>104</id>
+<name>tachelhit</name>
+<level>4</level>
+<sample>Yan urgaz iɛmmr mnnaw yilmawn n tammnt ɣ ssuq</sample>
+</language>
+
+<language>
+<id>105</id>
+<name>tibetan</name>
+<level>4</level>
+<sample>འགྲོ་བ་མིའི་ཁྱིམ་ཚང་ཁག་གི་ནང་མི་ཡོངས་ལ་རང་བཞིན་</sample>
+</language>
+
+</languages>
